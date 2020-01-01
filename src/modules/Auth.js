@@ -1,6 +1,7 @@
 import ax from "axios";
 import router from "../router";
 import authReq from "../auth-ax";
+const API_KEY = "";
 
 const state = {
   user: null,
